@@ -1,12 +1,11 @@
 create_an_array []
   end
 
-creat_an_array << "Nikes"
+create_an_array << "Nikes"
   end
 
-create_an_array.unshift
-  
-end
+create_an_array.unshift("tim")
+  end
 
 def remove_element_from_end_of_array(array)
   
