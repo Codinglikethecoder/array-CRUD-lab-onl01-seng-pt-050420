@@ -8,8 +8,7 @@ create_an_array.unshift("tim")
   end
 
 create_an_array.pop
-  
-end
+  end
 
 def remove_element_from_start_of_array(array)
   
