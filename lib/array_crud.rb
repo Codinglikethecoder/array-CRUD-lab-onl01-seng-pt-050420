@@ -1,28 +1,19 @@
-def create_an_empty_array
-  
-end
+create_an_array []
+  end
 
-def create_an_array
-  
-end
+create_an_array << "Nikes" , "Bats"
+  end
 
-def add_element_to_end_of_array(array, element)
-  
-end
+create_an_array.unshift("tim")
+  end
 
-def add_element_to_start_of_array(array, element)
-  
-end
+create_an_array.pop
+  end
 
-def remove_element_from_end_of_array(array)
-  
-end
+create_an_array.shift
+  end
 
-def remove_element_from_start_of_array(array)
-  
-end
-
-def retrieve_element_from_index(array, index_number)
+create_an_array {0}
   
 end
 
