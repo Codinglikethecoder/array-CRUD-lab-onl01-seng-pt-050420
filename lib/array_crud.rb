@@ -1,6 +1,5 @@
 Empty_array = []
   
-end
 
 def create_an_array
   
