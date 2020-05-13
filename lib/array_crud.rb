@@ -13,7 +13,7 @@ create_an_array.pop
 create_an_array.shift
   end
 
-def retrieve_element_from_index(array, index_number)
+create_an_array {0}
   
 end
 
