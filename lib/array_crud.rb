@@ -1,7 +1,7 @@
 create_an_array []
   end
 
-create_an_array << "Nikes"
+create_an_array << "Nikes" , "Bats"
   end
 
 create_an_array.unshift("tim")
