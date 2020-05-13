@@ -1,4 +1,4 @@
-Empty_array =
+Empty_array = []
   
 end
 
